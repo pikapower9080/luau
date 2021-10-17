@@ -1,5 +1,6 @@
-# Let's write our first script.
+# Roblox luau guide
 
+## Let's write our first script.
 We're going to begin by creating a hello world script. This is a common practice when learning a new language. This will cause the words "Hello, world!" to be printed to the output. First, make sure the output is enabled by going into view and output. You don't have to have your layout like mine, it all comes down to how you like it.
 
 ![Image](/assets/enableoutput.gif)
