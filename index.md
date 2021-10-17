@@ -3,5 +3,6 @@
 
 #### This website is in the works... so there's not a ton of content yet.
 
+<br>
 ### And so we begin!
-Click this (link)[index] to get started!
+Click this link to get started!
