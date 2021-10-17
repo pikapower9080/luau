@@ -31,4 +31,4 @@ So that's all about creating instances. Right now, if you play the game with tha
 
 So, what if you wanted to change that? What if you wanted it to be positioned somewhere else, or be anchored, or maybe even have a custom color!
 
-We'll be covering changing properties in the next section. See you there!
+We'll be covering changing [properties](/properties.md) in the next section. See you there!

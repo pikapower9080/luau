@@ -34,4 +34,4 @@ part.Name = "TotallyEpicNewName"
 
 Cool right? I promise that you’ll use this **all the time in your scripting.**
 
-Next up is a short lesson on how to add [delays]() to your scripts!
+Next up is a short lesson on how to add [delays](/delays.md) to your scripts!
