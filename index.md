@@ -5,4 +5,4 @@
 
 <br>
 ### And so we begin!
-Click this link to get started!
+Click this [link](/helloworld.md) to get started!
