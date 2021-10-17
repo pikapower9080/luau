@@ -1,6 +1,7 @@
 Remember that one function we learned called print? Well, here I'm going to show you how to properly use functions and even how to make your own!
 
 **Custom Functions**
+
 First let's start with custom functions. These are blocks of code that you can run twice without having to type it twice, it's like a variable but for blocks of code! They can also have arguments. For example if you wanted to run the code one time but with one thing that made it different than the second time you ran it, you could!
 
 To declare a function, type the following:
@@ -108,3 +109,5 @@ print(returnedPartName)
 ```
 
 So, that's all for now, There's more to cover but I'll save that for another time.
+
+Our next lesson is about [instancing](/instancing.md), and important part of roblox coding. See you there!
