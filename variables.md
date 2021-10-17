@@ -1,4 +1,3 @@
-# Roblox luau guide
 
 Oh boy! Time to learn about something really cool in scripting! Variables! As you might know from math class, a variable is a value that is able to be changed. That's true, but in scripting it can also be used as a shortcut, I'll tell you what I mean in a bit.
 
@@ -39,10 +38,6 @@ This is useful for if you have something that you're going to type over and over
 First: Make a new part in the workspace by clicking the part button in the home tab. Then rename it by right clicking it in the explorer and clicking rename. Make sure it does not share a name with any other part in the workspace. I'll call mine "MyPart". By the way, when scripting it's much easier to name your parts usingCamelCaseLikeThisWhereThereAreNoSpacesOrSpecialCharactersButEveryNewWorkIsAnotherCapitalLetterSoYouCanReadIt
 
 **Variables also have to be named like this but they can contain numbers, as long as they don't start with them.**
-
-<video controls>
-    <source src="/assets/newpart.mp4" type="video/mp4"></source>
-</video>
 
 Now, let's do something with this part. We can print the name of it, and use a variable to locate it. Create a new script and type:
 
