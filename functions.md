@@ -66,17 +66,14 @@ So there you have it, custom functions!
 
 Built in functions are functions like print() that are already set by the game engine some examples are:
 
-Let's take a look at some custom functions:
-Key:
-\ - This one is complex and we'll look at it later
-$ - This one is kind of of complex but it doesn't need it's own lesson
+Here are a couple of examples of built in functions:
 
 -wait(Seconds)
--spawn(function)\
--pcall(function)\
--tostring(number)$
--tonumber(string)$
--Instance.new()\
+-spawn(function)
+-pcall(function)
+-tostring(number)
+-tonumber(string)
+-Instance.new()
 
 And that's just the tip of the iceberg, I could add more to the list but it doesn't really matter.
 
