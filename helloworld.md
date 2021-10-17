@@ -34,3 +34,4 @@ Amazing right? Now, fill the print function with a string argument of "Hello, wo
 
 And now you're done! Run the game by pressing the guy at the top (You may need to close out of the script) and check the output!
 
+Next up is [variables](/variables.md). See you there!
