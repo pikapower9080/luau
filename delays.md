@@ -31,3 +31,5 @@ end)
 ```
 
 That's all!
+
+Next up is [strings](/strings.md)!
